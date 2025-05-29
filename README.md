@@ -1,4 +1,5 @@
-# Realtime Face Mask Detection
+# Realtime Face Mask Detection using custom CNN and OpenCV
+![stuuupegg-mask](https://github.com/user-attachments/assets/01e7445b-a8ff-4dce-a6be-370f51e6f339)
 
 A deep learning system for Real time face-mask detection using Deep Learning and OpenCV
 
