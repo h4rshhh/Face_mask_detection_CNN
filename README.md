@@ -1,8 +1,7 @@
 # Realtime Face Mask Detection using custom CNN and OpenCV
 ![stuuupegg-mask](https://github.com/user-attachments/assets/01e7445b-a8ff-4dce-a6be-370f51e6f339)
 
-A deep learning system for Real time face-mask detection using Deep Learning and OpenCV
-
+A deep learning system for Real time face-mask detection 
 ## 🎯 About Project
 
 This project uses a Convolutional Neural Network, to differentiate between images of people with and without masks. The CNN manages to get an accuracy of 96.2% on the training set and 94.3% on the test set. 
